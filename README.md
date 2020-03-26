@@ -1,2 +1,2 @@
 # practice
-hellow world
+hello world
